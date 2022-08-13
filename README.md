@@ -7,5 +7,5 @@ Created alongside members of Explorer Post 57: <br>
 • Bruno Neira [@brunon1](https://github.com/brunon1) <br>
 • Mahatru Miryala [@hedgybedgy](https://github.com/hedgybedgy)
 
-Demo and Explanation:
+Demo and Explanation:<br>
 https://www.youtube.com/watch?v=7ZV-6mMGIEQ
